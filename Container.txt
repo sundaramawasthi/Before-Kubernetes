@@ -1,0 +1,29 @@
+CONTAINER 
+
+
+SUPPOSE you built a application that work on your machine .
+then you send it to your friend but its not working on their 
+machine .
+
+SOLVE THESE PROBLEM - 
+
+If all these thing put on a box like { dependency , data , ...}
+and then this box send to  other then it make sure application also 
+run on your friend machine. 
+
+THAT BOX CALLED A CONTAINER . 
+
+
+CONTAINER BSICALLY A STANDARD UNIT OF SOFTWARE THAT HAVE ALL CODE AND ALL DEPEDENCY IN 
+ONE UNIT . 
+
+advantages
+
+BUILT 
+TEXT
+DEPLOYMENT ON MULTIPLE ENVIRMENT 
+LESS OVERHEAD
+USE HOST OS
+INCREASE PORTABILITY
+
+
