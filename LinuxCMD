@@ -1,0 +1,51 @@
+REQUIRMENT - 
+
+SOME LINUX COMMAND
+
+
+             MONOLITHIC VS MICROSERVICE ARCHITECTURE - 
+
+Lets Think about a Movie ticket Application -
+
+PROCESS WE ALL FOLLOW -
+
+GO TO UI
+  !
+SIGNP / SIGNIN
+  !
+ PAY
+  !
+CONFIRMATON
+
+
+MONOLITHICS - 
+  In monolithics all the Compoent are tightly coupled
+and all Comnucation are happen internal to the SYSTEM
+
+Whereas In a microservice ARCHITECTURE all component are
+Seperate basically you have user signin , ticket booking  
+as a Seperate component.
+
+
+So minimum  letancy in monolithics .Even though for microservices 
+ARCHITECTURE you apply best practices and best paralism still there
+is a minimum litancy which can be greater than monolithics Application. 
+
+
+
+LANGUAGES FLIXIBILITY 
+
+MONOLITHIC { WRITE CODE ON SINGLE PROGRAMMING LANGUAGE}
+MICROLITHICS { FLEXIBILITY TO CODE EACH OF THE COMPONENT IN DIFFERENT LANGUAGE}
+
+SCALING 
+
+MONOLITHIC - { monolithics ARCHITECTURE difficult to scale then MICROSERVICE in term of wastes of cpu resource utilization }
+MICROLITHICS - { In MICROLITHICS its easy to scale }
+
+DEPLOYMENT -
+MONOLITHIC - monolithics applicaton take more times to deploy
+MICROLITHICS - you can deploy its indivisual component on live production
+               envirment.  
+
+/// most organization and Company use MICROLITHICS ARCHITECTURE
