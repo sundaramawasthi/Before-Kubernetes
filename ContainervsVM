@@ -1,0 +1,25 @@
+CONTAINER VS VMS 
+
+
+     FUNCTIONING PART IS DIFFERENT 
+
+     Container they virtualize os instead of hardware.
+
+     They abstract at app layer .
+     They share host os 
+     EAch app running in isolated envirment.
+     TAKE less space
+
+
+     VMS { VIRTUAL MACHINE SERVER}
+
+     Provide abstraction of physical hardware
+
+     Turning one partical server to different server 
+     HYPERVISER- ItS just a software to allow us to create a vm.
+
+     The role is allow host computer to support guest vm  
+     each vm is literally a full copy of entire os 
+
+
+
